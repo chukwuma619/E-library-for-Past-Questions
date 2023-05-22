@@ -1,4 +1,5 @@
 $( document ).ready(function() {
+
     
     $(".listing").hover(function() {
         $( this ).addClass( "listing-hover" );
@@ -9,3 +10,4 @@ $( document ).ready(function() {
     } );
  
 });
+
